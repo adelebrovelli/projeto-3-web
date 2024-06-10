@@ -1,18 +1,11 @@
-# projeto-3-web
+# Sample Snack app
 
-Professor: Lucas Farias
-- Alun@s:
-  - Adele Brovelli
-  - Gustavo Lima
-  - Renata Bezerra
-  - Maria Vitória Paiva
+Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
-# EducaLivros Biblioteca
-Este é o projeto EducaLivros, um site com um _design_ simples e minimalista, acessível e fácil de navegar através do menu para compra e aluguel de livros.
+When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
 
-#
+All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
 
-## Fluxograma Biblioteca
-Fluxograma da Biblioteca para entender melhor como funciona a navegação e suas opções.
+If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
-![EducaLivros](https://github.com/adelebrovelli/projeto-3-web/assets/105817834/6609ed93-4df2-40a9-9308-691e5e127bf9)
+Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
