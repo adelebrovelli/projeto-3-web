@@ -11,7 +11,9 @@ If you're having problems, you can tweet to us [@expo](https://twitter.com/expo)
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
 _________________________________
 
-Educalivros é um aplicativo multifuncional que integra biblioteca digital, cursos online e e-commerce em uma única plataforma. Com uma interface amigável e uma estrutura bem organizada, o projeto proporciona uma experiência agradável e eficiente para os usuários.# Educalivros
+Educalivros é um aplicativo multifuncional que integra biblioteca digital, cursos online e e-commerce em uma única plataforma. Com uma interface amigável e uma estrutura bem organizada, o projeto proporciona uma experiência agradável e eficiente para os usuários.
+
+# Educalivros
 
 Educalivros é um projeto de aplicativo móvel desenvolvido utilizando o framework React Native com a ajuda do Expo, que mostra as atualizações e desenvolvimento do código no Snack. O objetivo principal do aplicativo é fornecer uma plataforma integrada para que os usuários possam acessar uma biblioteca digital, cursos online e uma loja de e-commerce para compra de livros e materiais educativos.
 
