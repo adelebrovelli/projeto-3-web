@@ -96,6 +96,11 @@ _________________________________
 # Preview rápido em vídeo
 https://github.com/adelebrovelli/projeto-3-web/assets/101191931/477b9575-8c80-416a-9c22-d7993a7c5b54
 
+## Fluxograma do aplicativo
+
+![EducaLivros](https://github.com/adelebrovelli/projeto-3-web/assets/105817834/a90b778f-45d1-4680-ba94-3b9fff95e3a1)
+
+
 ______________________________________
 
 Link da Apresentação:
