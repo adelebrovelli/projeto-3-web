@@ -82,7 +82,7 @@ O projeto foi desenvolvido com uma abordagem de componentização, onde cada par
 - Node.js
 - Expo CLI
 
-# Application screenshots
+# Screenshots da Aplicação
 
 ![image](https://github.com/adelebrovelli/projeto-3-web/assets/101191931/6bbd6780-5a87-46b2-8b97-388506a1c649)
 ![image](https://github.com/adelebrovelli/projeto-3-web/assets/101191931/6a046b7a-949f-4809-81b5-11c9d5f1e28e)
@@ -91,6 +91,6 @@ O projeto foi desenvolvido com uma abordagem de componentização, onde cada par
 ![image](https://github.com/adelebrovelli/projeto-3-web/assets/101191931/af324b9e-f14a-407d-81a6-6d92af4d715f)
 
 _________________________________
-# Quick video-preview
+# Preview rápido em vídeo
 https://github.com/adelebrovelli/projeto-3-web/assets/101191931/477b9575-8c80-416a-9c22-d7993a7c5b54
 
