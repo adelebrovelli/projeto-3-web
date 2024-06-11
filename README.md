@@ -96,3 +96,8 @@ _________________________________
 # Preview rápido em vídeo
 https://github.com/adelebrovelli/projeto-3-web/assets/101191931/477b9575-8c80-416a-9c22-d7993a7c5b54
 
+______________________________________
+
+Link da Apresentação:
+https://www.canva.com/design/DAGHy0fJqBI/XrnE0XVuevim_WupJEHvAA/edit
+
